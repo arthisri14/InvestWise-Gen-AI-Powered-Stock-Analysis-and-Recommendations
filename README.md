@@ -16,8 +16,11 @@ Real-time Reports: Automatically generates reports summarizing stock performance
 
 # How to Run the project
 
-1. Clone the Repository
+### 1. Clone the Repository
 ```sh
 git clone https://github.com/your-username/stock-performance-recommendation.git
 cd stock-performance-recommendation
+
+### 2. Install the Dependencies
+
 
