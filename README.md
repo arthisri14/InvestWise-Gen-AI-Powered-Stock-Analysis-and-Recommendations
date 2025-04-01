@@ -17,16 +17,16 @@ Real-time Reports: Automatically generates reports summarizing stock performance
 # How to Run the project
 
 1. Clone the Repository
-```python
+```sh
 git clone https://github.com/your-username/stock-performance-recommendation.git
 cd stock-performance-recommendation
 
 2. Install the dependencies
-```python
+
 pip install -r requirements.txt
 
 3. Run the Streamlit app
-```python
+
 streamlit run app.py
 
 4. The app will be accessible in your browser at http://localhost:8501.
