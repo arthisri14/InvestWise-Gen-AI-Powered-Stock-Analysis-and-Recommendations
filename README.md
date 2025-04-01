@@ -20,4 +20,27 @@ Real-time Reports: Automatically generates reports summarizing stock performance
 ```python
 git clone https://github.com/your-username/stock-performance-recommendation.git
 cd stock-performance-recommendation
+2. Install the dependencies
+```python
+pip install -r requirements.txt
+3. Run the Streamlit app
+```python
+streamlit run app.py
+4. The app will be accessible in your browser at http://localhost:8501.
+
+You can also use Ngrok to tunnel the app if running in a remote or cloud environment. A public URL will be generated to access your app externally.
+
+# Acknowledgments
+Yahoo Finance for providing financial data.
+
+Streamlit for enabling interactive web app development.
+
+Pyngrok for exposing the app to the web.
+
+Gemini API for AI-driven insights.
+
+Plotly for visualizations.
+
+
+
 
