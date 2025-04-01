@@ -1,8 +1,8 @@
-Stock Performance Analysis & Recommendation System
+#Stock Performance Analysis & Recommendation System using GenAI
 
 A comprehensive stock market analysis and recommendation system that provides users with insights on stock performance, financial data, and tailored investment strategies using AI models and external APIs.
 
-Features
+#Features
 
 Stock Performance Analysis: Fetches and compares stock performance data from Yahoo Finance.
 
