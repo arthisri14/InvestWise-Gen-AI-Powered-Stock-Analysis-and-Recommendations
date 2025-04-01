@@ -13,3 +13,11 @@ Investment Recommendations: Offers stock recommendations based on performance an
 Interactive Visualization: Displays interactive stock performance charts to help users understand historical trends.
 
 Real-time Reports: Automatically generates reports summarizing stock performance, company information, and recommended stocks.
+
+# How to Run the project
+
+1. Clone the Repository
+```python
+git clone https://github.com/your-username/stock-performance-recommendation.git
+cd stock-performance-recommendation
+
